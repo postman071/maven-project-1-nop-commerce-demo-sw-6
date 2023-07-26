@@ -1,0 +1,35 @@
+2023-07-26 00:07:178 INFO  HomePage :63 - select All Menu Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='result']'
+2023-07-26 00:07:09 INFO  HomePage :63 - select All Menu Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='result']'
+2023-07-26 00:07:415 INFO  HomePage :63 - select All Menu Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='result']'
+2023-07-26 00:07:991 INFO  HomePage :63 - select All Menu Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='result']'
+2023-07-26 00:07:323 INFO  HomePage :63 - select All Menu Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='result']'
+2023-07-26 00:07:251 INFO  HomePage :34 - click On LoginLink [[ChromeDriver: chrome on windows (2298417a60d74d2185d0ca3feac81453)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-26 00:07:32 INFO  LoginPage :37 - get Welcome Text [[ChromeDriver: chrome on windows (2298417a60d74d2185d0ca3feac81453)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-26 00:07:210 INFO  HomePage :34 - click On LoginLink [[ChromeDriver: chrome on windows (61216263ed45030fe7e0f3201da26167)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-26 00:07:954 INFO  LoginPage :42 - enter EmailId [[ChromeDriver: chrome on windows (61216263ed45030fe7e0f3201da26167)] -> xpath: //input[@id='Email']]
+2023-07-26 00:07:06 INFO  LoginPage :47 - enter Password [[ChromeDriver: chrome on windows (61216263ed45030fe7e0f3201da26167)] -> xpath: //input[@id='Password']]
+2023-07-26 00:07:61 INFO  LoginPage :52 - click On LoginButton [[ChromeDriver: chrome on windows (61216263ed45030fe7e0f3201da26167)] -> xpath: //button[normalize-space()='Log in']]
+2023-07-26 00:07:122 INFO  LoginPage :57 - get ErrorMessage Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='message-error validation-summary-errors']'
+2023-07-26 00:07:380 INFO  HomePage :34 - click On LoginLink [[ChromeDriver: chrome on windows (f409848c35125c9f7dc10e02323ad8b0)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-26 00:07:133 INFO  LoginPage :42 - enter EmailId [[ChromeDriver: chrome on windows (f409848c35125c9f7dc10e02323ad8b0)] -> xpath: //input[@id='Email']]
+2023-07-26 00:07:171 INFO  LoginPage :47 - enter Password [[ChromeDriver: chrome on windows (f409848c35125c9f7dc10e02323ad8b0)] -> xpath: //input[@id='Password']]
+2023-07-26 00:07:237 INFO  LoginPage :52 - click On LoginButton [[ChromeDriver: chrome on windows (f409848c35125c9f7dc10e02323ad8b0)] -> xpath: //button[normalize-space()='Log in']]
+2023-07-26 00:07:274 INFO  HomePage :39 - click On LogoutLink [[ChromeDriver: chrome on windows (f409848c35125c9f7dc10e02323ad8b0)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-26 00:07:31 INFO  HomePage :34 - click On LoginLink [[ChromeDriver: chrome on windows (fdfa43d6420f5ee8a8dea984116f416c)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-26 00:07:808 INFO  LoginPage :42 - enter EmailId [[ChromeDriver: chrome on windows (fdfa43d6420f5ee8a8dea984116f416c)] -> xpath: //input[@id='Email']]
+2023-07-26 00:07:859 INFO  LoginPage :47 - enter Password [[ChromeDriver: chrome on windows (fdfa43d6420f5ee8a8dea984116f416c)] -> xpath: //input[@id='Password']]
+2023-07-26 00:07:912 INFO  LoginPage :52 - click On LoginButton [[ChromeDriver: chrome on windows (fdfa43d6420f5ee8a8dea984116f416c)] -> xpath: //button[normalize-space()='Log in']]
+2023-07-26 00:07:949 INFO  HomePage :44 - login Link Is Displayed [[ChromeDriver: chrome on windows (fdfa43d6420f5ee8a8dea984116f416c)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-26 00:07:218 INFO  HomePage :52 - click On Register Tab [[ChromeDriver: chrome on windows (5ad87d950bf11c489d4cd336fbb5d8e6)] -> xpath: //a[normalize-space()='Register']]
+2023-07-26 00:07:984 INFO  RegisterPage :182 - get Register Text [[ChromeDriver: chrome on windows (5ad87d950bf11c489d4cd336fbb5d8e6)] -> xpath: //h1]
+2023-07-26 00:07:229 INFO  HomePage :52 - click On Register Tab [[ChromeDriver: chrome on windows (cbc976511532489a9c33d537da51f1bb)] -> xpath: //a[normalize-space()='Register']]
+2023-07-26 00:07:14 INFO  RegisterPage :165 - click On Register Button [[ChromeDriver: chrome on windows (cbc976511532489a9c33d537da51f1bb)] -> xpath: //button[@id='register-button']]
+2023-07-26 00:07:66 INFO  RegisterPage :197 - get Email RequiredMessage [[ChromeDriver: chrome on windows (cbc976511532489a9c33d537da51f1bb)] -> xpath: //span[@id='Email-error']]
+2023-07-26 00:07:513 INFO  HomePage :52 - click On Register Tab [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //a[normalize-space()='Register']]
+2023-07-26 00:07:273 INFO  RegisterPage :72 - Select Gender [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //input[@id='gender-female']]
+2023-07-26 00:07:285 INFO  RegisterPage :84 - enter Firstname [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //input[@id='FirstName']]
+2023-07-26 00:07:338 INFO  RegisterPage :96 - enter Lastname [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //input[@id='LastName']]
+2023-07-26 00:07:388 INFO  RegisterPage :106 - Select Day [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //select[@name='DateOfBirthDay']]
+2023-07-26 00:07:451 INFO  RegisterPage :112 - Select month [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //select[@name='DateOfBirthMonth']]
+2023-07-26 00:07:512 INFO  RegisterPage :118 - Select Year [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //select[@name='DateOfBirthYear']]
+2023-07-26 00:07:562 INFO  RegisterPage :130 - enter Email [[ChromeDriver: chrome on windows (27124bc9e910a2e4e8fa1360722130d2)] -> xpath: //input[@id='Email']]
